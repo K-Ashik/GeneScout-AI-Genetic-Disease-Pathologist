@@ -16,6 +16,8 @@ GeneScout is an interpretable Machine Learning diagnostic tool designed to predi
 
 ## 🖼️ App Screenshot
 *(Put your screenshot here!)*
+![app_view](https://github.com/user-attachments/assets/f18c955b-e5e0-47cc-a8e6-79aebc764d87)
+
 
 ## 📂 Project Structure
 * `app.py`: The Streamlit dashboard.
